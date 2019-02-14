@@ -1,11 +1,11 @@
-package com.codercocoon.Tree;
+package javaspringexamples.Tree;
 
 /**
  * This class represents some operations about binary search trees, especially
  * how to calculate the height, inserting an searching a value, finding the
  * lowest common ancestor.
  * 
- * @author contact@codercocoon.com.
+ * @author mounir.sahrani@gmail.com
  *
  */
 public class BinarySearchTree {
